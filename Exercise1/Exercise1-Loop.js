@@ -1,4 +1,4 @@
-//López Pérez Juan Alberto  ID:4860
+//Camargo Muñoz Jeovani Didier ID: 4911
 //Exercise 1 - Build an Array Using a While Loop
 
 let array = []
